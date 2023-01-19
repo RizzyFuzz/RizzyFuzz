@@ -1,7 +1,7 @@
-## 👋 Haii, I'm Duta
-
-![Banner](foto.jpg) <br />
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/dutafbriann)
+<div align="center">
+<h2>👋 Hello, I'm Duta</h2>
+  [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/duta_fbriann)
+</div> <br>
 
 ### ℹ &nbsp;Personal Stuffs
 - I'm Beginner Programmer
@@ -19,5 +19,5 @@
 
 ---
 
-[![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=DutaKey&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DutaKey&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![DutaKey GitHub Stats](https://github-readme-stats.vercel.app/api?username=DutaKey&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![DutaKey Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DutaKey&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
