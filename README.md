@@ -1,7 +1,7 @@
 <div align="center">
 <h2>👋 Hello, I'm Duta</h2>
 
-![banner](https://raw.githubusercontent.com/ItzNgga/DutaKey/master/banner.png)
+![banner](https://raw.githubusercontent.com/DutaKey/master/banner.png)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6281258845225)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/duta_fbriann)
 
