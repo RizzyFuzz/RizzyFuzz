@@ -8,11 +8,11 @@
 </div>
 
 ### ℹ️ &nbsp;About Me
-> I'm Rizz, a 16-year-old Fullstack Developer and Website Engineer located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
+> I'm Rizz, a 16-year-old Fullstack Developer and Music Producer. Located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
 
 ### ℹ️ &nbsp;Personal Stuff's
 
-- 👨‍🎓 Experience Level: 2+ years.
+- 👨‍🎓 Experience Level: 3+ years.
 
 - 💻 I’m currently work on JavaScript 🚀.
 
