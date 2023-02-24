@@ -4,7 +4,7 @@
 ![banner](https://github.com/RizzyFuzz/mystorage/blob/main/RizzyFuzz-Design.png?raw=true)<br><br>
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282196930963)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rizzlogy_)
-
+[<img src="https://img.shields.io/badge/soundcloud-orange.svg?&style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
 </div>
 
 ### ℹ️ &nbsp;About
