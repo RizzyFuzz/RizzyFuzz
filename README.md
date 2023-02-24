@@ -1,18 +1,18 @@
 <div align="center">
-<h2>👋 Hello, I'm Duta</h2>
+<h2>👋 Hello, I'm RizzyFuzz</h2>
 
-![banner](https://raw.githubusercontent.com/DutaKey/DutaKey/master/banner.png)<br>
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6281258845225)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/duta_fbriann)
+![banner](https://raw.githubusercontent.com/RizzyFuzz/RizzyFuzz/master/.png)<br>
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send/?phone=6282196930963)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rizzlogy_)
 
 </div>
 
 ### ℹ️ &nbsp;About
-> I am a 17yo beginner programmer. I like things that smell automatic and can be simplified. i hope you enjoy.
+> I am a 16yo beginner programmer. I like things that smell automatic and can be simplified. i hope you enjoy.
 
 ### ℹ️ &nbsp;Personal Stuffs
 
-- 👨‍🎓 Experience Level: 3+ years.
+- 👨‍🎓 Experience Level: 2+ years.
 
 - 💻 I’m currently work on JavaScript 🚀.
 
@@ -45,6 +45,6 @@
 
 ***
 <p align = "center">
-  <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DutaKey&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true"> </a>
- <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DutaKey&theme=dark&hide_border=true&layout=compact"> </a>
+  <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RizzyFuzz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27&include_all_commits=true&count_private=true"> </a>
+ <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RizzyFuzz&theme=dark&hide_border=true&layout=compact"> </a>
 </p>
