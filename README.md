@@ -8,7 +8,8 @@
 </div>
 
 ### ℹ️ &nbsp;About Me
-> I am a 16yo beginner programmer. I like things that smell automatic and can be simplified. i hope you enjoy.
+> I'm a Rizz, 16 Years Old.
+> I'm a Backend Developer and a Website Engginer. Located in North Sulawesi - Manado, Indonesia. As a back-end Develover I used to code websites from stratch. I love to create simple yet beautiful websites with great user experience.
 
 ### ℹ️ &nbsp;Personal Stuff's
 
