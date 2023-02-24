@@ -8,8 +8,7 @@
 </div>
 
 ### ℹ️ &nbsp;About Me
-> I'm a Rizz, 16 Years Old.
-> I'm a Backend Developer and a Website Engginer. Located in North Sulawesi - Manado, Indonesia. As a back-end Develover I used to code websites from stratch. I love to create simple yet beautiful websites with great user experience.
+> I'm Rizz, a 16-year-old Backend Developer and Website Engineer located in Manado, North Sulawesi, Indonesia. As a back-end developer, I specialize in coding websites from scratch. My passion lies in creating elegant and user-friendly websites that deliver an outstanding user experience.
 
 ### ℹ️ &nbsp;Personal Stuff's
 
