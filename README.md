@@ -7,10 +7,10 @@
 [<img src="https://img.shields.io/badge/soundcloud-orange.svg?&style=for-the-badge&logo=soundcloud&logoColor=white">](https://soundcloud.com/rizzlogy)
 </div>
 
-### ℹ️ &nbsp;About
+### ℹ️ &nbsp;About Me
 > I am a 16yo beginner programmer. I like things that smell automatic and can be simplified. i hope you enjoy.
 
-### ℹ️ &nbsp;Personal Stuffs
+### ℹ️ &nbsp;Personal Stuff's
 
 - 👨‍🎓 Experience Level: 2+ years.
 
@@ -23,7 +23,7 @@
 - Languages: &nbsp;
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - Frameworks: &nbsp;
 
@@ -38,9 +38,8 @@
   
 - Tools: &nbsp;
 
-  ![Visual Studio Code (PC)](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Acode (Android)](https://img.shields.io/badge/Acode-0078d7.svg?style=for-the-badge&logo=Acode&logoColor=white)
-
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 ***
